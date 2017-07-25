@@ -1,0 +1,27 @@
+.admin {
+    background-image: url("/beejee/images/coffe.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    position: absolute;
+    width: 100%;
+    min-height: 800px;
+    padding: 20px;
+}
+#table-task {
+    background-color: white;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 5% auto;
+}
+
+.btn {
+    margin-top: 15px;
+}
+#date {
+    color:#F5F5F5;
+}
